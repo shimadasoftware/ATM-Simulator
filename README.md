@@ -1,2 +1,2 @@
 # ATM-Simulator
-ATM Simulator in Python
+ATM Simulator in Python.
